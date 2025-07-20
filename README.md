@@ -27,5 +27,5 @@ I'm passionate about automating secure software delivery and bridging the gap be
 ---
 
 📫 **Let's Connect**  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/baffoe6-devsecops)
+- 🌐 https://www.linkedin.com/in/baffoe6-devsecops
 - 📨 baffoe6@gmail.com  
